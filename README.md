@@ -4,4 +4,4 @@
 
 *简陋的界面*：
 
-![image](.\test.jpg)
+![image](https://github.com/lipervol/pytorch_learning/blob/master/test.jpg)
